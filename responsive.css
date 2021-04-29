@@ -1,0 +1,39 @@
+@media screen and (max-width:767px) {
+  .services .service_text {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  .services h3 {
+    margin-left: 28%;
+  }
+
+  .gallery img {
+    margin-bottom: 20px;
+    margin-left: 17%;
+  }
+
+  .what_wE_do img {
+    margin-top: 20px !important;
+  }
+
+  .parice_plan .card {
+    width: 75%;
+    margin: 20px auto;
+  }
+
+  .blog_containt .card {
+    width: 75%;
+    margin: 20px auto;
+  }
+
+  .contact_form .left_contant {
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width:550px) {
+  .services h3 {
+    margin-left: 24%;
+  }
+}

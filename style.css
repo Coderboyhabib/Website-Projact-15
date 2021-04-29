@@ -1,0 +1,61 @@
+.carousel-caption {
+  bottom: 102px;
+}
+
+.about_us i {
+  font-size: 40px;
+  margin: 10px 0px;
+  color: red;
+}
+
+.overlay {
+  position: relative;
+  background: url(images/1.JPG);
+  height: 250px;
+  background-size: cover;
+}
+
+.background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.salider {
+  margin-top: 56px !important;
+}
+
+.news_letter {
+  background: #ddd;
+}
+
+.about_banner {
+  background: url(images/bn2.jpg);
+  height: 250px;
+  background-size: cover;
+  padding-top: 56px;
+  padding-bottom: 50px;
+}
+
+.what_wE_do img {
+  margin-top: -80px;
+}
+
+.blog_containt {
+  margin-top: 56px;
+}
+
+.blog_containt p {
+  font-size: 14px;
+}
+
+.blog_containt span {
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.contact_form {
+  margin-top: 56px;
+}
